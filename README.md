@@ -1,5 +1,5 @@
 # Triad-LMF: A Hierarchical Low-Rank Multimodal Fusion Framework for Robust Cancer Subtype Classification Using Multi-Omics Data
-> **Timestamp Calibration for time-series single cell RNA-seq expression data**<br>
+> **Triad-LMF: A Hierarchical Low-Rank Multimodal Fusion Framework for Robust Cancer Subtype Classification Using Multi-Omics Data**<br>
 >  Xingyue Tan#, Xiran Chen#, Renjie Tian, Qinyu Cai, Miaoyuan Jiang, Dongqiu Yang, Lei Zhang*<br>
 >  BMC Bioinformatics 2026<br>
 
