@@ -1,4 +1,8 @@
 # Triad-LMF: A Hierarchical Low-Rank Multimodal Fusion Framework for Robust Cancer Subtype Classification Using Multi-Omics Data
+> **Timestamp Calibration for time-series single cell RNA-seq expression data**<br>
+>  Xingyue Tan#, Xiran Chen#, Renjie Tian, Qinyu Cai, Miaoyuan Jiang, Dongqiu Yang, Lei Zhang*<br>
+>  BMC Bioinformatics 2026<br>
+
 Cancer heterogeneity poses a major challenge for accurate molecular subtype classification. Conventional methods often fail to exploit complementary information across multiple omics modalities, leading to overfitting on high-dimensional data and limited representation of subtype heterogeneity. To address this, we propose Triad-LMF, a multi-omics integration framework based on low-rank multimodal fusion to improve classification accuracy. Triad-LMF harmonizes heterogeneous omics data and integrates information through a two-stage hierarchical fusion strategy. Local Pairwise Fusion and Global Triadic Fusion are combined via the Two-Feature and Three-Way LMF modules, enabling a gradual transition from local modality interactions to global feature integration. Experimental results show that Triad-LMF consistently outperforms existing methods. UMAP visualization confirms enhanced subtype separability, and SHAP-based analysis highlights biologically meaningful features. Across independent datasets, Triad-LMF demonstrates strong generalization, offering a robust and interpretable framework for multi-omics-driven cancer subtype classification.
 
 <img width="4437" height="2824" alt="Figure1" src="https://github.com/user-attachments/assets/dec7ec0e-6769-4c3e-99a3-fd41b7d69389" />
